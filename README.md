@@ -1,4 +1,3 @@
-# Libcurl
 # libcurl Know How
 
 [TOC]
